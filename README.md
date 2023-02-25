@@ -69,4 +69,12 @@ Learn More
 - [Android Architecture Components](https://developer.android.com/topic/libraries/architecture)
 - Android Material [Dialogs](https://material.io/develop/android/components/dialogs)
 - [Properties and Fields: Getters, Setters, const, lateinit](https://kotlinlang.org/docs/reference/properties.html)
+-[LiveData Overview](https://developer.android.com/topic/libraries/architecture/livedata)
+- [LiveData observer](https://developer.android.com/reference/androidx/lifecycle/LiveData#observe(androidx.lifecycle.LifecycleOwner,%20androidx.lifecycle.Observer%3C?%20super%20T%3E)) API reference
+- [Data binding](https://developer.android.com/topic/libraries/data-binding)
+- [Two-way data binding](https://developer.android.com/topic/libraries/data-binding/two-way)
 
+Blog Post
+[
+Data Binding — lessons learnt. The Data Binding Library (referred to... | by Chris Banes | Android Developers(https://medium.com/androiddevelopers/data-binding-lessons-learnt-4fd16576b719)
+]
