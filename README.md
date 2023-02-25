@@ -77,4 +77,4 @@ Learn More
 Blog Post
 [
 Data Binding — lessons learnt. The Data Binding Library (referred to... | by Chris Banes | Android Developers(https://medium.com/androiddevelopers/data-binding-lessons-learnt-4fd16576b719)
-]
+](https://medium.com/androiddevelopers/data-binding-lessons-learnt-4fd16576b719)
